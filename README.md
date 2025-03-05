@@ -14,4 +14,5 @@
 3. Start the app with `npm run dev`.
 
 For more details, visit the [GitHub repository](https://github.com/Nachiket-cmd/ai_summarizer).
-Want to see the website? [ai_summarizer](https://aisumzzzz.netlify.app/)
+
+Want to see the website? [ai_summarizer](https://aisumzzzz.netlify.app/).
